@@ -1,4 +1,5 @@
 ## Hi, I'm Chris 👋
+## Providence College Graduate with a Computer Science Degree
 
 <!--
 **Chuppert/Chuppert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
