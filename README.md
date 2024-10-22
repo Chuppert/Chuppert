@@ -19,14 +19,14 @@ I am actively seeking entry-level opportunities in the tech industry. I have gai
    - **Goals**: 
      - Implement advanced metrics for player evaluation.
      - Create a user-friendly interface for data input and visualization.
-     - [Repository Link](#) (Link to project repo - update when available)
+     - [Repository Link](Link to project repo - update when available)
 
 ## Featured Projects
 ### 2. **Maze Game**
    Simple C++ Console Game where the player is placed in a randomly generated maze. They must collect a key before exiting the maze.
    - **Tech Stack**: C++
    - **Role**: Back-end developer
-   - [[Repository Link](https://github.com/Chuppert/Maze-Game)](#) (Link to project repo)
+   - [[Repository Link](https://github.com/Chuppert/Maze-Game)]
 
 ### 3. **Python**
    Created a system for managing a small business database, handling customer and order data.
