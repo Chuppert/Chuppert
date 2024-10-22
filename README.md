@@ -18,8 +18,7 @@ I am actively seeking entry-level opportunities in the tech industry. I have gai
    - **Status**: In progress
    - **Goals**: 
      - Implement advanced metrics for player evaluation.
-     - Create a user-friendly interface for data input and visualization.
-     - [Repository Link](Link to project repo - update when available)
+     - [Repository Link](https://github.com/Chuppert/College-Basketball-New-Stat)
 
 ## Featured Projects
 ### 2. **Maze Game**
