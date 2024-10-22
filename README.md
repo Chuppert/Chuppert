@@ -12,7 +12,7 @@ I am actively seeking entry-level opportunities in the tech industry. I have gai
 
 ## Current Projects
 ### 1. **Sports Analytics Tool/Database Management System**
-   A project focused on calculating advanced player stats in college basketball, similar to the WAR stat in baseball. This tool compares player performance based on average performance in the same position and conference.
+   Focused on calculating new player stat in college basketball, similar to the WAR stat in baseball. This tool compares player performance based on average performance in the same position and conference.
    - **Tech Stack**: PHP, SQL, JavaScript
    - **Role**: Full-stack development (front-end & back-end)
    - **Status**: In progress
