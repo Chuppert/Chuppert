@@ -26,7 +26,7 @@ I am actively seeking entry-level opportunities in the tech industry. I have gai
    Simple C++ Console Game where the player is placed in a randomly generated maze. They must collect a key before exiting the maze.
    - **Tech Stack**: C++
    - **Role**: Back-end developer
-   - [Repository Link](#) (Link to project repo)
+   - [[Repository Link](https://github.com/Chuppert/Maze-Game)](#) (Link to project repo)
 
 ### 3. **Python**
    Created a system for managing a small business database, handling customer and order data.
