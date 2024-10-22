@@ -18,21 +18,12 @@ I am actively seeking entry-level opportunities in the tech industry. I have gai
    - **Status**: In progress
    - **Goals**: 
      - Implement advanced metrics for player evaluation.
-     - [Repository Link](https://github.com/Chuppert/College-Basketball-New-Stat)
+   - [Repository Link](https://github.com/Chuppert/College-Basketball-New-Stat)
 
 ## Featured Projects
 ### 2. **Maze Game**
    Simple C++ Console Game where the player is placed in a randomly generated maze. They must collect a key before exiting the maze.
    - **Tech Stack**: C++
    - **Role**: Back-end developer
-   - [[Repository Link](https://github.com/Chuppert/Maze-Game)]
+   - [Repository Link](https://github.com/Chuppert/Maze-Game)
 
-### 3. **Python**
-   Created a system for managing a small business database, handling customer and order data.
-   - **Tech Stack**: PHP, SQL
-   - **Role**: Back-end developer
-   - [Repository Link](#) (Link to project repo)
-
-## Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- Email: youremail@example.com
